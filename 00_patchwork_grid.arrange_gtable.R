@@ -8,7 +8,7 @@ library(patchwork)
 
 ##################################
 #
-# Here you will learn some baiscs
+# Here you will learn some basics
 # on combining plots 
 #
 ##################################
@@ -70,7 +70,7 @@ left_plot3
 
 ##################################
 #
-# COMBINE THE TWO PLOTS
+#  COMBINE THE TWO PLOTS
 # 
 ##################################
 
