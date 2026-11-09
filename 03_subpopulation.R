@@ -3,7 +3,7 @@ library(ggtext)
 library(janitor)
 library(patchwork)
 
-# Data from the German Census Databas, Download Format "flatfile-csv"
+# Data from the German Census Database, download format "flatfile-csv"
 # https://ergebnisse.zensus2022.de/datenbank/online/table/1000A-3034/
 
 df <- read_csv2("data/1000A-3034_de_flat.csv",
