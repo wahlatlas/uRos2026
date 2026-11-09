@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggtext)
 library(patchwork)
 
-# this is how you would read the data form the german census databas
+# this is how you would read the data from the german census database
 # https://ergebnisse.zensus2022.de/datenbank/online/table/1000A-2027/
 # flatfile-csv means long-format data
 #
