@@ -1,6 +1,6 @@
 # Creating population pyramids in less than 100 lines of code
 
-The Use of R in Official Statistics - uRos2026 – conference 18-20 November 2026  
+The Use of R in Official Statistics – conference 18-20 November 2026  
 https://r-project.ro/conference2026.html
 
 ### Where are the pitfalls?
